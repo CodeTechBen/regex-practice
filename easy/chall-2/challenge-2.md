@@ -1,0 +1,1 @@
+in the text: "Contact us at support@example.com or sales@shop123.org for help." I want to match any email addresses

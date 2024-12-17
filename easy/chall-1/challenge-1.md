@@ -1,0 +1,1 @@
+Using regex i'm taking the string "Alice went to Wonderland and met the MadHatter." and finding all words that start with a upper case letter
