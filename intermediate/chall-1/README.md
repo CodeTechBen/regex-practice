@@ -1,0 +1,1 @@
+Match all words that contain only lowercase letters.
